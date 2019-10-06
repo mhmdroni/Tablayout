@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tablayout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="masukkan_teks">Masukkan Teks</string>
+    <string name="waktu">Waktu</string>
+    <string name="ocr">ocr</string>
+    <string name="todo">TODO</string>
+    <string name="a_n_b">a.n.b</string>
+    <string name="dummy_description">(atas nama beliau) in this name</string>
+    <string name="dikoding">Dikoding</string>
+    <string name="loading_text"><![CDATA[Memuat Kata Indonesia & Inggris]]></string>
+    <string name="failed_message">Gagal memuat data</string>
+    <string name="dicoding">by Dicoding.com</string>
+    <string name="l" />
+</resources>
